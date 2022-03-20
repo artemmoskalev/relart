@@ -13,9 +13,9 @@ setup(
     description=DESCRIPTION,
     long_description=LONG_DESCRIPTION,
     packages=find_packages(),
-    install_requires=[pandas, numpy], 
+    install_requires=['pandas', 'numpy'], 
     long_description_content_type="text/markdown",
-    url='https://github.com/mike-huls/toolbox',
+    url='https://https://github.com/artemmoskalev/relart',
     license='MIT',
     keywords=['python', 'data science']
 )

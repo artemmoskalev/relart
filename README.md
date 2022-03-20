@@ -24,4 +24,4 @@ print(grid)
 
 ```
 ## Contributing
-For major changes, please open an issue first to discuss what you would like to change. Then, a pull request.
+For major changes, please open an issue first to discuss what you would like to change.
