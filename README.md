@@ -23,6 +23,5 @@ grid = cv.cv_grid(alpha=[0.1, 0.2], reg_lambda=[1, 10], model=["Poisson", "Negat
 print(grid)
 
 ```
-
 ## Contributing
 For major changes, please open an issue first to discuss what you would like to change. Then, a pull request.
