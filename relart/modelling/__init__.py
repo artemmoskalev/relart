@@ -1,1 +1,1 @@
-from models import NaivePredictor
+from .models import *

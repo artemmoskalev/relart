@@ -1,1 +1,1 @@
-from grid_search import cv_grid
+from .grid_search import *
